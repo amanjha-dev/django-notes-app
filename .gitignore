@@ -24,3 +24,13 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+
+__pycache__/
+*.pyc
+.env
+data/
+db.sqlite3
+venv/
+.env.*
+*.log
